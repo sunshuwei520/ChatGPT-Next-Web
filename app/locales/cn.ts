@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "访问密码不正确或为空，请前往公众号[小糊涂Ai](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg2NTk3NTk1MQ==&scene=124#wechat_redirect) 回复:chatGpt 获取密码,[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      "访问密码不正确或为空，请前往公众号[小糊涂Ai](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg2NTk3NTk1MQ==&scene=124#wechat_redirect) 回复: “chatGpt”, 获取密码,[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
   },
   Auth: {
     Title: "需要密码",
